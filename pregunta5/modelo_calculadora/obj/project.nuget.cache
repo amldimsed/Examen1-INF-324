@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vKAgkxh8+wm/myRd5Q3i9d3YyIKKR24K34EiZOGPia+3v1n3KdPzSzL9KRvUgxEYAeFOZkEyJ794tA0EatAFRw==",
+  "success": true,
+  "projectFilePath": "D:\\programacion funcional 319\\examen1\\pregunta5\\modelo_calculadora\\modelo_calculadora.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Andres\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
