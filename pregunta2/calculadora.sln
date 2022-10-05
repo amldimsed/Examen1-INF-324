@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{689D430D-5944-4F5C-9AEA-FBB1892CAA90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "interfaz", "interfaz\interfaz.csproj", "{5A4C0C70-CDB2-4196-AD76-0C8618BA8BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{689D430D-5944-4F5C-9AEA-FBB1892CAA90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{689D430D-5944-4F5C-9AEA-FBB1892CAA90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{689D430D-5944-4F5C-9AEA-FBB1892CAA90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{689D430D-5944-4F5C-9AEA-FBB1892CAA90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A4C0C70-CDB2-4196-AD76-0C8618BA8BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A4C0C70-CDB2-4196-AD76-0C8618BA8BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A4C0C70-CDB2-4196-AD76-0C8618BA8BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A4C0C70-CDB2-4196-AD76-0C8618BA8BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96D5B5C7-A38C-4144-890E-B36A0509459F}
+	EndGlobalSection
+EndGlobal

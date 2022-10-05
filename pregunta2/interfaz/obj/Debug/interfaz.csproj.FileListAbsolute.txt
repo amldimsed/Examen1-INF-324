@@ -1,0 +1,24 @@
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\bin\Debug\interfaz.exe
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\bin\Debug\interfaz.pdb
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\bin\Debug\ClassLibrary1.dll
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\bin\Debug\ClassLibrary1.pdb
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.AssemblyReference.cache
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.Form1.resources
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.Properties.Resources.resources
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.GenerateResource.cache
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.CoreCompileInputs.cache
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.CopyComplete
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.exe
+D:\programacion funcional 319\funciones y referencias\ConsoleApplication2\interfaz\obj\Debug\interfaz.pdb
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.AssemblyReference.cache
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.Form1.resources
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.Properties.Resources.resources
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.GenerateResource.cache
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.CoreCompileInputs.cache
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\bin\Debug\interfaz.exe
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\bin\Debug\interfaz.pdb
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\bin\Debug\ClassLibrary1.dll
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\bin\Debug\ClassLibrary1.pdb
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.csproj.CopyComplete
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.exe
+D:\programacion funcional 319\examen1\ConsoleApplication2\interfaz\obj\Debug\interfaz.pdb
